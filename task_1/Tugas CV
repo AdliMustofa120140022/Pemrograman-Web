@@ -1,1 +1,98 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV ADLI MUSTOFA - 120140022</title>
+</head>
+<body>
+    <img src="https://drive.google.com/uc?export=view&id=1PuSFez3kHAQY8nFSmdmcqp0kQHAOJSx6" alt="foto adli" height="130" align="left">
+    <h1>Adli Mustofa</h1>
+    <p align="justify"> Mahasiswa Institut Teknologi Sumatera Program Studi Teknik Informatika. Aktif dan berperan penting dalam aktivitas keorganisasian himpunan mahasiswa Teknik Informatika. Memiliki keahlian dalam UI/UX. Memiliki kemampuan komunikasi yang bagus dan dapat bekerjasama dengan tim.</p>
+    <nav>
+        <center>
+            <a href="https://github.com/AdliMustofa120140022">GitHub</a>&emsp14;
+            <a href="https://api.whatsapp.com/send/?phone=6281379317635&text&type=phone_number&app_absent=0">WhatsApp</a>&emsp14;
+            <a href="mailto:adli.120140022@student.itera.ac.id">email</a>&emsp14;
+        </center>
+    </nav>
+    <hr>
+    <h2>Data Pribadi</h2>
+    <table cellpadding="5" align="left" width="1000">
+        <tr>
+            <td>Nama</td>
+            <td>: Adli Mustofa</td>
+        </tr>
+        <tr>
+            <td>NIM</td>
+            <td>: 120140022</td>
+        </tr>
+        <tr>
+            <td>Umur</td>
+            <td>: 20 Tahun</td>
+        </tr>
+        <tr>
+            <td>Alamat</td>
+            <td>: Gg. Pembangunan 3, Kel. Korpri Jaya, Kec. Sukarame, Kota Bandar Lampung</td>
+        </tr>
+    </table>
+    <pre>
+        <br><br><br><br><br><br>
+    </pre>
+    <hr>
+    <h2>Pendidikan</h2>
+    <table cellpadding="5" align="left" width="1000">
+        <tr>
+        <td>
+            <strong>SMA Negeri 2 Kotabumi | 2017-2020</strong>
+            <p>Berhasil lulus dengan nilai baik dan diterima SNMPTN di Intitut Teknologi Sumatera</p>
+            <strong>SMP Negeri 6 Kotabumi | 2014-2017</strong>
+            <p>Berhasil lulus dengan nilai baik dan memuaskan</p>
+            <strong>SD Negeri 01 Madukoro | 2008-2014</strong>
+            <p>Berhasil lulus dengan nilai baik dan memuaskan</p>
+        </td>
+    </tr>
+    </table>
+    <pre>
+        <br><br><br><br><br><br><br><br><br><br><br><br>
+    </pre>
+    <hr>
+    <h2>Skills</h2>
+    <table cellpadding="5" align="left" width="600">
+        <tr>
+            <td><strong>Soft Skill</strong></td>
+            <td><strong>Software</strong></td>
+            <td><strong>Bahasa Pemrograman</strong></td>
+        </tr>      
+        <tr>
+            <ul>
+                <td><li>Teliti</li></td>
+                <td><li>Ms. Word</li></td>
+                <td><li>C++</li></td>
+            </ul>
+        </tr>
+        <tr>
+            <ul>
+                <td><li>Kreatif</li></td>
+                <td><li>Ms. Exel</li></td>
+                <td><li>Python</li></td>
+            </ul>
+        </tr>
+        <tr>
+            <ul>
+                <td><li>Public Speaking</li></td>
+                <td><li>Photoshop</li></td>
+                <td><li>JavaScript</li></td>
+            </ul>
+        </tr>
+        <tr>
+            <ul>
+                <td><li>Problem Solving</li></td>
+                <td><li>Lightroom</li></td>
+                <td><li>PHP</li></td>
+            </ul>
+        </tr>
+    </table>
+</body>
+</html>
