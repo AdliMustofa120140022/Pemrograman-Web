@@ -1,1 +1,45 @@
-
+<!--Nama : Adli Mustofa-->
+<!--Nim  : 120140022-->
+<!--Tugas 2 PemWeb RC-->
+<!DOCTYPE html>
+<html> 
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tugas Individu 2 - Adli Mustofa</title>
+        <style type=text/css>
+            body{
+                width: 500px;
+                border: 10px solid #0b486b;
+                padding: 15px;
+                margin: 20px;
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;               
+            }
+            h1{
+                color:#0b486b;
+                text-align: center;
+            }
+            form{
+                background-color:#5aa0c9e5; 
+            }
+            input{
+                background-color:#a2c4d8;
+                width:fit-content;
+                
+            }
+        </style>
+    </head>
+<body>
+    <h1>PRODUK</h1>
+    <form action="detail-produk.html" method="GET">
+        <label for="nama">Nama Produk:</label><br>
+        <input type="text" id="nama" name="nama"><br>
+        <label for="jumlah">Jumlah Produk:</label><br>
+        <input type="text" id="jumlah" name="jumlah"><br>
+        <label for="harga">Harga Produk</label><br>
+        <input type="text" id="harga" name="harga"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
